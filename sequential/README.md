@@ -1,0 +1,1 @@
+for https://github.com/OpenStitching/stitching/issues/238
